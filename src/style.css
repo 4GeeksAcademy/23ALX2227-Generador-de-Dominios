@@ -1,1 +1,23 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+.title-generate {
+  text-align: center;
+  padding-top: 50px;
+  font-size: 70px;
+}
+
+#div1 {
+  text-align: center;
+  font-size: 50px;
+
+  margin-top: 100px;
+}
+
+#domainGenerator {
+  color: rgb(70, 24, 92);
+  font-size: 70px;
+  padding-top: 50px;
+}
